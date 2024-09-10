@@ -1,0 +1,13 @@
+.menu{
+    float: right;
+}
+.menu > li{
+    display: inline;  
+}
+.menu > li > a{
+    text-decoration: none;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 24px;
+}
